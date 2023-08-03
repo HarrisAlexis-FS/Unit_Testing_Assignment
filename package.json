@@ -4,7 +4,7 @@
   "description": "NodeJS Unit Testing Assignment",
   "main": "server.js",
   "scripts": {
-    "test": "jest --coverage",
+    "test": "jest --watchAll",
     "start": "nodemon server"
   },
   "keywords": [
